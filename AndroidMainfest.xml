@@ -1,0 +1,6 @@
+<uses-permission android:name="android.permission.CAMERA" />
+
+<application
+    ... >
+    <uses-feature android:name="android.hardware.camera.ar" android:required="true" />
+</application>
